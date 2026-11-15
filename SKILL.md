@@ -264,12 +264,12 @@ For FAST mode analyses, compress to: Forecast → Bottom Line → Skeptic Verdic
 
 NZT99 is the cognitive layer. It CALLS other skills when domain expertise is needed:
 
-- **Trading decisions** → NZT99 loop + futures-forex-trading-governor + ml-trading-engine
+- **Trading decisions** → NZT99 loop + <your-domain-trading-skill> + <your-domain-model-skill>
 - **Business strategy** → NZT99 loop + counterpart-prediction-engine + problem-solver-elite
-- **Legal risk** → NZT99 loop + texas-legal-counsel + texas-civil-litigation-counsel
+- **Legal risk** → NZT99 loop + domain-specific private skills (not included)
 - **Architecture decisions** → NZT99 loop + reasoning-architecture-engine
 - **Security assessment** → NZT99 loop + red-team-governor + agent-ecosystem-security
-- **Forecasting** → NZT99 loop + quantitative-forecasting-governor + prediction-market-engine
+- **Forecasting** → NZT99 loop + <your-forecasting-governor-skill> + <your-market-signal-skill>
 
 NZT99 provides the REASONING FRAMEWORK. Domain skills provide the DOMAIN EXPERTISE. The combination is where compound intelligence happens.
 
